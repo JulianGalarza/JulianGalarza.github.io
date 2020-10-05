@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
+Thanks for see my page
+Template Name: Julian Galarza WebPage
+Author: Julian Galarza working with base design by BootstrapMade.com
 License: https://bootstrapmade.com/license/
